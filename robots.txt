@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://zibosude.github.io/sitemap/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/DCM/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/toZ/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/QCu/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/Qtg/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/tXg/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/hJM/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/qxv/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/Qdw/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/yCi/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/vBK/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/dVo/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/aWl/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/qRZ/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/lLS/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/ylq/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/DZa/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/QHf/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/SGc/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/cLp/sitemap_index.zibosude
+Sitemap: https://zibosude.github.io/SnB/sitemap_index.zibosude
